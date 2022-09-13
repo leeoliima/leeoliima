@@ -3,7 +3,7 @@
 ## <h2 align="center"> Bem vindos ao meu Workspace!👋 </h2>
 
 
-<div align="center"> :purple_heart:&nbsp; Buscando colaborar com projetos em Front-end usando React  <br>>
+<div align="center"> :purple_heart:&nbsp; Buscando colaborar com projetos em Front-end usando React  <br>
  :blush: &nbsp;<bro>Posso te ajudar com **CSS, HTML, JavaScript, React**  <br>
   🌱 Atualmente estou aprendendo **React**<br
  💬&nbsp; Sobre mim: Curto tecnologia, filmes e séries <br>
