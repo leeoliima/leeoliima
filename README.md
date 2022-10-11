@@ -5,7 +5,7 @@
 
 <div align="center"> :purple_heart:&nbsp; Buscando colaborar com projetos em Front-end usando React  <br>
  :blush: &nbsp;<bro>Posso te ajudar com **CSS, HTML, JavaScript, React**  <br>
-  🌱 Atualmente estou aprendendo **React**<br
+  🌱 Atualmente estou aprendendo **Backend**<br
  💬&nbsp; Sobre mim: Curto tecnologia, filmes e séries <br>
  :email: &nbsp;Entre em contato comigo: </div> <br>
 <div align="center"> <a href="mailto:leandrolsadm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
