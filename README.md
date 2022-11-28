@@ -42,8 +42,8 @@
       src="https://github-readme-stats.vercel.app/api?username=leeoliima&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
     />
   </a>
-  <br>
- <br>
+  
+         
   <a href="https://github.com/leeoliima">
     <img
       align="center"
@@ -59,4 +59,4 @@
 
   </div> 
   
-   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=leeoliima&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=leeoliima&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
