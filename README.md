@@ -3,10 +3,10 @@
 ## <h2 align="center"> Bem vindos ao meu Workspace!👋 </h2>
 
 
-<div align="center"> :purple_heart:&nbsp; Buscando colaborar com projetos em Front-end usando React  <br>
- :blush: &nbsp;<bro>Posso te ajudar com **CSS, HTML, JavaScript, React**  <br>
-  🌱 Atualmente estou aprendendo **Backend**<br
- 💬&nbsp; Sobre mim: Curto tecnologia, filmes e séries <br>
+<div align="center"> :purple_heart:&nbsp; Buscando colaborar com projetos em Front-end usando React ou Next e utilizo também o TypeScript<br>
+ :blush: &nbsp;<bro>Posso te ajudar com: CSS, HTML, JavaScript, React, TypeScript <br>
+  🌱 Atualmente estou aprendendo Backend<br
+ 💬&nbsp; Sobre mim: Curto tecnologia, filmes e séries, adoro animais e gosto de desafios. <br>
  :email: &nbsp;Entre em contato comigo: </div> <br>
 <div align="center"> <a href="mailto:leandrolsadm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  <a href="https://www.linkedin.com/in/leandro-lima-s/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
@@ -24,12 +24,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>   
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width="40" height="40" /> 
 </div>
 
 <div align="center">
 <h3> Ferramentas e Tecnologias que estou aprendendo no momento: </h3>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" />
 </div>
 
  <div style="display:flex">
