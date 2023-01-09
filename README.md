@@ -3,7 +3,7 @@
 ## <h2 align="center"> Bem vindos ao meu Workspace!👋 </h2>
 
 
-<div align="center"> :purple_heart:&nbsp; Buscando colaborar com projetos em Front-end usando React ou Next e utilizo também o TypeScript<br>
+<div align="center"> :purple_heart:&nbsp; Busco colaborar com projetos em Front-end usando React ou Next e utilizo também o TypeScript<br>
  :blush: &nbsp;<bro>Posso te ajudar com: CSS, HTML, JavaScript, React, TypeScript <br>
   🌱 Atualmente estou aprendendo Backend<br
  💬&nbsp; Sobre mim: Curto tecnologia, filmes e séries, adoro animais e gosto de desafios. <br>
